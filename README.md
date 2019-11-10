@@ -1,5 +1,5 @@
 # Test with AR.js
  Trying the AR.js framework
 ## Objectives
-[] Custom marker
-[] Custom 3D model
+- [ ] Custom marker
+- [ ] Custom 3D model
